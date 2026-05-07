@@ -3,4 +3,4 @@
 	url = https://github.com/DMTF/libspdm
 [submodule "SPDM-Responder-Validator"]
 	path = SPDM-Responder-Validator
-	url = https://github.com/DMTF/SPDM-Responder-Validator
+	url = https://github.com/Dhruva21/SPDM-Responder-Validator
